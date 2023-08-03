@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @caimingxu12
+- 👀 I’m interested in Software Engineering undergrad mastering C++. 
+- 🌱 I’m Fascinated by systems programming and problem-solving.
